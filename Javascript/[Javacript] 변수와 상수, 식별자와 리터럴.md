@@ -89,5 +89,33 @@ let an_identifier_name;
 
 
 
+### 4. 리터럴
+
+리터럴은 값의 표기법으로 프로그래밍 언어마다 값을 표현하는 여러가지 리터럴을 가지고 있다.
+
+```javascript
+1; // 정수 리터럴
+2.5; // 부동 소수점 리터럴
+'hello'; // 문자열 리터럴
+true; // 진리값 리터럴
+```
 
 
+
+### 5. 원시 타입
+
+자바스크립트의 원시 값은 아래와 같다. 이러한 원시 값들을 '**'불변성''**의 특징을 가지고 있다. 
+
+- 숫자(1,2,3,4...)
+- 문자열('a','b','c'…..)
+- Boolean(true, false)
+- null
+- Undefiend
+- Symbol
+
+원시 타입은 ```typeof``` 연산자를 활용해 확인할 수 있다.
+
+```javascript
+typeof 1; // 'number'
+typeof 'hello'; // 'string
+```
