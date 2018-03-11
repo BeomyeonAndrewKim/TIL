@@ -5,7 +5,7 @@
 ```javascript
 let a=1 //원본
 let b=a //사본. b는 1, a가 아님.
-a=2 // 원본의 값을 바굼
+a=2 // 원본의 값을 바꿈.
 console.log(b) //1. 사본의 값은 바뀌지 않음
 ```
 
@@ -30,7 +30,7 @@ console.log(a) //3
 
 ```javascript
 let o ={a:1}
-let p=o // 이제 p는 o가 '가리키고 있는 것'을 가리킵니다.
+let p=o // 이제 p는 o가 '가리키고 있는 것'을 가리킴.
 o.a=2
 console.log(p) ///{a:2}
 ```
@@ -39,9 +39,9 @@ console.log(p) ///{a:2}
 
 ```javascript
 let o={a:1}
-let p=o // 이제 p는 o가 '가리키고 있는 것'을 가리킵니다.
+let p=o // 이제 p는 o가 '가리키고 있는 것'을 가리킴.
 p===o // true
-o={a:2} // 이제 o는 다른 것을 가리킵니다. {a:1}을 수정한 것이 아닙니다.
+o={a:2} // 이제 o는 다른 것을 가리킵니다. {a:1}을 수정한 것이 아님.
 p===o // false
 console.log(p)//{a:1}
 ```
@@ -57,7 +57,7 @@ q==={a:1} //false
 
 ```javascript
 function change_o(o){
-    o.a=000;
+    o.a=999;
 }
 
 let o = {a:1};
