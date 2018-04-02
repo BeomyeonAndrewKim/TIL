@@ -126,3 +126,5 @@ Javascript 등을 사용해서 웹 페이지에서자동적으로 이것을 정�
 ### 트렌스페어런트 네고시에이션(Transparent Negotiation)
 
 서버 구동형과 에이전트 구동형을 혼합한 것으로 서버와 클라이언트가 각각 콘텐츠 네고시에이션을 하는 방식입니다.
+
+Reference [그림으로 배우는 HTTP & Network Basic](http://www.youngjin.com/book/book_detail.asp?prod_cd=9788931447897&seq=5470&cate_cd=1&child_cate_cd=10&goPage=1&orderByCd=1&searchType=Y&keyword1=%B1%D7%B8%B2%C0%B8%B7%CE%20%B9%E8%BF%EC%B4%C2%20http)
