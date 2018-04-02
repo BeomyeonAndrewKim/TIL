@@ -18,3 +18,5 @@ HTML5 이벤트 모델에서는 두 방법을 모두 지원하기 위해 먼저 
 - ```preventDefault```: 이벤트를 취소하는 메서드입니다. ```defaultPrevented``` 프로퍼티가 ```true```로 바뀝니다. 브라우저의 이벤트 핸들러는 ```defaultPrevented``` 프로퍼티가 ```true```로 바뀐 이벤트를 무시하고 아무 일도 하지 않습니다.
 - ```stopPropagation```: 이벤트를 현재 요소에서 끝내고 더는 전달되지 않게 막습니다. 해당 요소에 연결된 이벤트 핸들러는 동작하지만 다른 요소에 연결된 이벤트 핸들러는 동작하지 않습니다. 
 - ```stopImmediatePropagation```: 다른 이벤트 핸들러, 심지어 현재 요소에 역녈된 이벤트 핸들러도 동작하지 않게 막습니다.
+
+Reference [Learning JavaScript](http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940)

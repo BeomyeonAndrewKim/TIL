@@ -64,3 +64,5 @@ let o = {a:1};
 change_o(o);
 console.log(o) //{a:999}
 ```
+
+Reference [Learning JavaScript](http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940)

@@ -119,3 +119,5 @@ true; // 진리값 리터럴
 typeof 1; // 'number'
 typeof 'hello'; // 'string
 ```
+
+Reference [Learning JavaScript](http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940)

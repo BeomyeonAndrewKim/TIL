@@ -115,3 +115,5 @@ arr.sort((a,b)=> a.name[1]<b.name[1]); // arr은 name프로퍼티의 두 번째 
 - 음수를 반환하면, `a`가 `b` 앞에 오도록 정렬합니다.
 - 0을 반환하면, `a`와 `b`를 같은 순서로 간주합니다.
 - 양수를 반환하면, `b`가 `a` 앞에 오도록 정렬합니다.
+
+Reference [Learning JavaScript](http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940)

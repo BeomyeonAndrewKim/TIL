@@ -93,3 +93,5 @@ RED === Orange // false
 ### 맵과 셋
 
  ES6에서는 새로운 데이터 타입 ```Map```과 ```Sep```, 그리고 약한 짝인 ```WeakMap```과 ```WeakSet```을 도입했습니다. 맵은 객체와 마찬가지로 키와 값을 연결하지만, 특정 상황에서 객체보다 유리한 부분이 있습니다. 셋은 배열과 비슷하지만 중복이 허용되지 않습니다. 
+
+ Reference [Learning JavaScript](http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940)

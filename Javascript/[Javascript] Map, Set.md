@@ -98,6 +98,8 @@ roles; //Set{};
 
 ```Set```역시 ```WeakSet```이 있으며 마찬가지로 가비지 콜렉션의 대상이 됩니다. 이터러블 역시 아닙니다. 실제 용도는 주어진 객체가 셋 안에 존재하는지 아닌지를 알아보는 것뿐이라고 해도 과언이 아닙니다.
 
+Reference [Learning JavaScript](http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940)
+
 
 
 
