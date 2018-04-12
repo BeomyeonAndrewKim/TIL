@@ -26,7 +26,7 @@ Array List는 배열을 이용해서 리스트를 구현한 것을 의미한다.
 
 ### 정의
 
-- Linked List는 Array List와는 다르게 엘리먼트와 엘리먼트 간의 연결(link)을 이용해서 리스트를 구현한 것을 의미합니다. 그래서 이름도 linked list입니다.
+Linked List는 Array List와는 다르게 엘리먼트와 엘리먼트 간의 연결(link)을 이용해서 리스트를 구현한 것을 의미합니다. 그래서 이름도 linked list입니다.
 
 ### 장점
 
