@@ -50,7 +50,7 @@ source: [code pumpkin](http://codepumpkin.com/merge-sort-sorting-algorithm/)
 
 선택 정렬과 거의 유사한 알고리즘으로 단지 가장 큰 원소를 뒤로 보내는데에 매번 쭉 돌면서 알아내느냐 힙을 사용하여 알아내느냐가 유일한 차이점이다. 
 
-![Heap Sorting](https://cdn.namuwikiusercontent.com/s/66b4423a08f9c1f37d88aab887d5c94db4c2944176c411836b4490e27dae7bd6169b75b365795892f53b32f31f8e24d34e94defe0352467bdc827096eddb0f215e14cd6cfc1ac5355956dfbf13cdbca5?e=1534156230&k=mhFXiD2kU1odcvo3XdwABg)
+![Heap Sorting])(https://blog.kakaocdn.net/dn/bzfBwF/btqFOM16NBX/AlAJkIe4uwtXHd6hThT7Kk/img.gif)
 
 source: [나무위키](https://namu.wiki/w/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
